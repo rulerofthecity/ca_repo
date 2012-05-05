@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^.*action.*$ ../../../framework/index.php

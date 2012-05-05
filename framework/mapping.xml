@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+	<!-- More config settings can be done here in future -->
+	
+	<action value="loginaction.do">
+		<controller>Controller1</controller>
+		<successView>successView1</successView>
+		<failureView>failview1</failureView>
+	</action>
+	
+	<action value="action.2">
+		<controller>Controller2</controller>
+		<successView>successView2</successView>
+		<failureView>failView2</failureView>
+	</action>
+	
+	<action value="action">
+		<controller>Controller3</controller>
+		<successView>successView3</successView>
+		<failureView>failView3</failureView>
+	</action>
+	
+</root>
